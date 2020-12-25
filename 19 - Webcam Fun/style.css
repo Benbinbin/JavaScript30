@@ -26,15 +26,15 @@ html {
 }
 
 .photo {
-  width: 100%;
-  float: left;
+  width: 60%;
+  /* float: left; */
 }
 
 .player {
   position: absolute;
   top: 20px;
   right: 20px;
-  width:200px;
+  width:100px;
 }
 
 /*
